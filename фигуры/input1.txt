@@ -1,0 +1,8 @@
+
+treygolnik 12 6
+kryg 12
+pryamoygolnik 12 2
+trapeciya12 2 3
+kvadrat 2 2
+treygolnik 12 2
+kryg 13
